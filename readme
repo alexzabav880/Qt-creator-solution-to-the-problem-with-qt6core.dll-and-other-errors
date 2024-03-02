@@ -9,4 +9,4 @@ msvc2019_arm64
 )
 windeployqt.exe
 And after windeployqt.exe write the path to the release exe file or to the debug folder wherever you want , the necessary dll files will be installed to run the program without qt creator
-
+.\windeployqt.exe E:\Programming\untitled2\build\Desktop_Qt_6_6_2_MinGW_64_bit-Debug\debug\untitled2.exe
