@@ -1,0 +1,11 @@
+You need to go to the root folder of Qt creator
+Go to folder 6.6.2 or similar,then to the bin folder, then when you go to the folder you need, open it in cmd (command line), you will need to register  Next, go to the folder of the kit that is being used (android_arm64_v8a
+android_armv7
+android_x86
+android_x86_64
+mingw_64
+msvc2019 64
+msvc2019_arm64
+)
+
+
